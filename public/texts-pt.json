@@ -1,0 +1,72 @@
+{
+    "home": {
+        "firstSection": {
+            "title": "Olá, me chamo Cleiton !",
+            "subtitle": "Um desenvolvedor fullstack.",
+            "navbar": ["História", "Projetos", "Paixão", "Contato"]
+        },
+        "secondSection": {
+            "cardTitle": "História",
+            "text": ["Sou um desenvolvedor full stack com ampla experiência em diversas áreas, incluindo ", "mobile, frontend, backend e automação", ". Costumo me representar como ", "aventureiro de software", ", alguém que abraça novas tecnologias sem medo e acredita que as linguagens de programação são apenas ferramentas para resolução de problemas.  Sou formado em Sistemas de Informação na Universidade Federal de Pernambuco, onde continuo a aprimorar meu conjunto de habilidades."]
+        },
+        "thirdSection": {
+            "cardTitle": "Projetos",
+            "projectsName": ["project 1!", "project2", "project3"],
+            "subtitle": "saiba mais sobre meus projetos!"
+        },
+        "fourthSection": {
+            "cardTitle": "Paixão - O que me move?",
+            "text": ["Desde a infância, a tecnologia sempre me fascinou e se tornou um facilitador para dar vida a diversas ideias criativas. Aprender a programar foi ", "libertador", " e, durante essa jornada, busquei desenvolver projetos que simplificassem não apenas a minha vida, mas também a de outras pessoas ao meu redor. Assim, criei sites e aplicativos móveis \"from scratch\" para gerenciar contas, atividades domésticas e muito mais, empregando ", "Python, Javascript e até Swift", " nas etapas do processo."]
+        },
+        "fifthSection": {
+            "cardTitle": "Contato - Deseja me contratar?",
+            "inputTitles": ["Seu nome", "Seu email", "Serviço", "Suas redes sociais (opcional)", "Mensagem (opcional)"],
+            "inputLabels": ["Qual seu nome?", "Qual seu email?", "Qual o motivo do contato?", "Como conhecer sua empresa?", "Deixe aqui sua mensagem! 😀"],
+            "buttonText": "enviar"
+        }
+        
+    },
+    "projects": {
+        "project3": {
+            "text": "Nesse projeto, por ser o meu primeiro com desenvolvimento web, procurei solucionar um problema que eu encontrasse no meu dia a dia. Então, percebi que poderia auxiliar minha família num melhor gerenciamento das contas de casa com o uso de tecnologia. Assim, desenvolvi um site que permite armazenar as diversas contas mensais (energia, luz, água...) e, por meio de gráficos - Chart.js -, analisar gastos desnecessários. Como consequência desse projeto, pude aprender responsividade, alinhamento, interação com banco de dados - e como guardá-los com segurança -, etc.",
+            "subtitle": "clique aqui para ver o site",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "HoraDoServico": {
+            "text": "project 1! foi minha primeira experiência com desenvolvimento mobile (React Native) e utilizei conceitos dos projetos passados - criação de contas com banco de dados (mongoDB), responsividade, animações, etc -. O motivo de desenvolvimento desse foi para auxiliar minha família na organização das atividades diárias. Então, procurei desenvolver um sistema de comunicação mais eficaz com os integrantes de uma casa, declarando as atividades de cada usuário buscando uma exeperiência mais acessível possível aos meus pais. Assim, acredito que o meu mais marcante aprendizado foi sobre melhores performances em diferentes dispositivos e entender um pouco sobre a complexidade de uma boa experiência de usuário.",
+            "subtitle": "",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "AWR": {
+            "text": "Na construção desse projeto procurei desenvolver um produto que trouxesse a empresa para o mundo digital. Então, por ser uma única página, utilizei das facilidades do React para trazer um produto acessível que auxiliasse na conexão da empresa com o público alvo. Além disso, utilizei da facilidade “server side rendering” do nextJS para fazer o envio das informações de contato diretamente para o email da empresa. Me preocupei, também, com as métricas do Google para fazer aumentar o SEO e, consequentemente, aumentar a colocação do site em pesquisas.",
+            "subtitle": "clique aqui para ver o site",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "Carplit": {
+            "text": "No desenvolvimento desse projeto desenvolvemos um aplicativo que centraliza as rotinas de quem oferece caronas e impacta diretamente na organização do motorista. Dessa maneira, participei ativamente no desenvolvimento, com React Native, de todas as telas e integração com o backend - além da preocupação com arquitetura, performance e fidelidade ao mockup -.",
+            "subtitle": "",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "EVA": {
+            "text": "EVA é uma plataforma de exibição interativa dos trabalhos da interseção de arte, computação, design e expressão gráfica desenvolvidos nas disciplinas de Introdução à Programação, Introdução à Multimídia, Computação Musical, Jogos Digitais, Criatividade Computacional e Design Gerativo da UFPE. No desenvolvimento desse projeto pude solidificar meus conhecimentos sobre React, Next.js, estilização e CSS puro. Além disso, tive a oportunidade de desenvolver minha comunicação entre a equipe e liderar o time de desenvolvimento frontend precisando pensar e estudar sobre a mais viável escolha de tecnologias além de me desafiar utilizando uma planilha do Google como banco de dados.",
+            "subtitle": "clique aqui para ver o site",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "CLUST": {
+            "text": "Este projeto foi criado durante a disciplina de Foundations da Apple Developer Academy. Com o cenário da solução sendo a Academy, desenvolvemos um app que promove equipes alinhadas com as expectativas de aprendizagem de cada estudante da Academy. Durante o processo de desenvolvimento, adquiri experiência em Swift, SwiftUI, Multipeer Conectivity, prototipação entre diversos outros desafios que surgiram no decorrer do projeto. Com o uso dos peers, todo processo de formação de equipes acontece totalmente via rede local, um desafio para o processo de desenvolvimento.",
+            "subtitle": "clique aqui para ver o repositório",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "ESTAPLIT": {
+            "text": "Estaplit é um marketplace de estacionamentos que conecta motoristas a vagas disponíveis em tempo real. Nele fui responsável por desenvolver o backend em Django com Django Rest API, ampliando meu conhecimento em desenvolvimento web e o frontend em React Native. Além disso, integrei o backend com o Google Maps e também trabalhei no desenvolvimento e integração da parte frontend em React Native. Essa experiência consolidou minha habilidade em criação de APIs, integração com serviços externos e na construção de sistemas flexíveis e escaláveis.",
+            "subtitle": "clique aqui para ver o repositório",
+            "techsText": "Tecnologias Utilizadas:"
+        },
+        "ARTICLE-MEDIUM": {
+            "text": "No artigo, compartilho como transformei esse dispositivo em um servidor pessoal baseado em Linux, permitindo a execução ininterrupta de scripts e automações 24 horas por dia. Nesse processo, exploro as etapas necessárias, desde a escolha de um sistema operacional Linux, a instalação de aplicativos como Andronix e Termux, até a configuração de inicialização automática do servidor.",
+            "subtitle": "clique aqui para ir ao medium",
+            "techsText": ""
+        }
+    }
+    
+}

@@ -1,0 +1,72 @@
+{
+    "home": {
+        "firstSection": {
+            "title": "Hi, i'm cleiton!",
+            "subtitle": "A fullstack developer.",
+            "navbar": ["History", "Projects", "Passion", "Contact"]
+        },
+        "secondSection": {
+            "cardTitle": "History",
+            "text": ["I'm a full-stack developer with extensive experience in various areas, including ", "mobile, frontend, backend, and automation development", ". I often describe myself as an ", "software discoverer", ", someone who embraces new technologies without fear and believes that programming languages are just tools for problem-solving. Currently, I am formed Information Systems at the Federal University of Pernambuco, where I continue to enhance my skill set."]
+        },
+        "thirdSection": {
+            "cardTitle": "Projects",
+            "projectsName": ["project 1!", "project2", "project3"],
+            "subtitle": "see more about my projects!"
+        },
+        "fourthSection": {
+            "cardTitle": "Passion - What moves me?",
+            "text": ["Since childhood, technology has always fascinated me and has become a facilitator for bringing various creative ideas to life. Learning to program was a source of ", "freedom", " and, during this journey, I sought to develop projects that simplified not only my life but also the lives of others around me. Thus, I created websites and mobile applications from scratch to manage accounts, household activities, and more, using ", "Python, Javascript, and even Swift", " in the process."]
+        },
+        "fifthSection": {
+            "cardTitle": "Contact - Want to hire me?",
+            "inputTitles": ["Your name", "Your email", "Service", "Your social media (optional)", "Message (optional)"],
+            "inputLabels": ["What's your name?", "What's your mail?", "What is the contact reason?", "How see more about your company?", "Leave your message! 😀"],
+            "buttonText": "send"
+        }
+        
+    },
+    "projects": {
+        "project3": {
+            "text": "In this project, for being the first with webdev, i have tried to solve an diary problem that i could find. So, i realized that i could help my family in a better bills management using technology. Thereby, i developed a website that allow to store the many month bills (example: light, water) and, using graphs - Chart.js -, analyze unnecessary expenses. As a result of this project, i learned resposiviness, align, interaction with databases - and how to store them safe -, etc.",
+            "subtitle": "click here to see the website",
+            "techsText": "Used technologies:"
+        },
+        "HoraDoServico": {
+            "text": "'project 1' was my first experience with mobile development (React Native) and i've used old projects concepts - creating accounts with mongoDB, respossiviness, animations, etc -. This solution was developed to auxiliate my familiy in organization of dailys home activites. So, i tried to develop a system of communication more efficient with the family members, declaring each users activites seeking for the simplest user experience for my parents. In this scenario, i believe that the most important learn that i had was about better perfomances in diferrents devices and understanding more about the complexity of a good user experience.",
+            "subtitle": "",
+            "techsText": "Used technologies:"
+        },
+        "AWR": {
+            "text": "In the construction of this project, i have tried to develop a product that bring the company to the technological world. So, for being one page, i used the React benefits to came with a project that was accessible and helped in company-user connection. Furthermore, i used Next.js, with server side rendering, to do the message connection with the company mail. It was my concern, too, with the google metrics seeking to improve SEO and, consequently, better website search placing.",
+            "subtitle": "click here to see the website",
+            "techsText": "Used technologies:"
+        },
+        "Carplit": {
+            "text": "In this project we developed an app that centralizes routines of carpool drivers. So, i have participated actively in mobile development, with React Native, of all screens and backend integration - besides the concern of performance, architecture, and mockup fidelity -.",
+            "subtitle": "",
+            "techsText": "Used technologies:"
+        },
+        "EVA": {
+            "text": "EVA is a web platform of projects built in some UFPE courses. Developing this project i was able to solidify my knowledge in React, Next.js, pure CSS. Beyond that, had the opportunity to develop my communication between the team, study more about choosing technologies in viable ways and challenge myself using google sheets as database.",
+            "subtitle": "click here to see the website",
+            "techsText": "Used technologies:"
+        },
+        "CLUST": {
+            "text": "This project was created during the Apple Developer Academy's Foundations course. With the Academy as the context, we developed an app that promotes teams aligned with each student's learning expectations. Throughout the development process, I gained experience in Swift, SwiftUI, Multipeer Connectivity, prototyping, and encountered various other challenges that emerged during the project. Using peers, the entire team formation process occurs entirely via a local network, posing a challenge in the development process.",
+            "subtitle": "Click here to view the repository",
+            "techsText": "Used technologies:"
+        },
+        "ESTAPLIT": {
+            "text": "Estaplit is a parking marketplace that connects drivers to real-time available parking spaces. I was responsible for developing the backend using Django with Django Rest API, expanding my knowledge in web development. I also worked on the frontend in React Native. Additionally, I integrated the backend with Google Maps and handled the development and integration of the frontend in React Native. This experience solidified my skills in creating APIs, integrating with external services, and building flexible and scalable systems.",
+            "subtitle": "Click here to view the repository",
+            "techsText": "Used technologies:"
+        },
+        "ARTICLE-MEDIUM": {
+            "text": "In this article, I share how I turned this device into a personal server based on Linux, allowing the uninterrupted execution of scripts and automations 24 hours a day. I explore the necessary steps, from choosing a Linux operating system and installing applications like Andronix and Termux to configuring automatic server startup.",
+            "subtitle": "Click here to read on Medium",
+            "techsText": ""
+        }
+    }
+    
+}
